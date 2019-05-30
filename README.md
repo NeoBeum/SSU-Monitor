@@ -13,9 +13,10 @@ Servicing Stack Updates have had repeating issues where Components are not reini
 10.0.18362.30
 
 **Current Windows SSU Release Date & Build** 
+*2019-05-29*
+10.0.18362.145
+[KB4498523](https://support.microsoft.com/en-us/help/4498523)
+
 *2019-05-11*
 10.0.18362.30
-----------
-
-2019-05-11
 [KB4500109](https://support.microsoft.com/en-us/help/4500109)
