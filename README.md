@@ -8,7 +8,7 @@ Servicing Stack Updates have had repeating issues where Components are not reini
 
 *All files tracked are X64*
 
-Use Git Diff on FileHistory.txt to vie3 comparison on commit changes gor KB
+Use Git Diff on FileHistory.txt to view comparison on commit changes for Servicing Stack
 
 ----------
 
