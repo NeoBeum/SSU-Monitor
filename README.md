@@ -8,12 +8,13 @@ Servicing Stack Updates have had repeating issues where Components are not reini
 
 *All files tracked are X64*
 
+Use Git Diff on FileHistory.txt to vie3 comparison on commit changes gor KB
+
 ----------
 
 **Initial ISO Release Date & Build**
 
 *2019-04-20*
-
 10.0.18362.30
 
 
