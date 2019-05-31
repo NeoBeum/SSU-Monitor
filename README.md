@@ -9,6 +9,7 @@ Servicing Stack Updates have had repeating issues where Components are not reini
 *All files tracked are X64*
 
 Use Git Diff on FileHistory.txt to view comparison on commit changes for Servicing Stack
+https://github.com/NeoBeum/SSU-Monitor/commits/master/Windows10FileInformation.txt
 
 ----------
 
