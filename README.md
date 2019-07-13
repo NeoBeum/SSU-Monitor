@@ -1,7 +1,11 @@
 # SSU-Monitor
 
-## Windows 10 Servicing Stack Update Monitor
+### Servicing Stack Security Advisory
+https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV990001
 
+----------
+
+## Windows 10 Servicing Stack Update Monitor
 
 This repository is for tracking SSU File Information History.
 Servicing Stack Updates have had repeating issues where Components are not reininstalled for Recovery.
