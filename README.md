@@ -26,6 +26,12 @@ https://github.com/NeoBeum/SSU-Monitor/commits/master/Windows10FileInformation.t
 **Current Windows SSU Release Date & Build** 
 
 
+*2019-07-26*
+10.0.18362.263
+
+[KB4508433](https://support.microsoft.com/en-us/help/4508433)
+
+
 *2019-07-09*
 10.0.18362.235
 
